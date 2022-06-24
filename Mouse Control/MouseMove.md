@@ -1,5 +1,6 @@
-https://docs.katalon.com/docs/katalon-recorder/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference   # Doc
-https://forum.katalon.com/c/katalon-recorder/17         # Forum
+* Doc
+  https://docs.katalon.com/docs/katalon-recorder/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference   
+* Forum https://forum.katalon.com/c/katalon-recorder/17         
 
 
 * mouseMoveAt
